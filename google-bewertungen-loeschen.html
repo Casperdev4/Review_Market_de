@@ -90,6 +90,7 @@
         "@type": "Product",
         "name": "Google Bewertungen Löschservice",
         "description": "Löschung negativer Google Bewertungen. Bearbeitungszeit 3-14 Tage, diskreter Service, garantierte Löschung.",
+        "image": "https://review-markt.de/google-reviews-service.webp",
         "offers": {
             "@type": "Offer",
             "price": "5",
@@ -100,6 +101,38 @@
                 "price": "5",
                 "priceCurrency": "EUR",
                 "unitText": "pro Bewertung"
+            },
+            "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "0",
+                    "currency": "EUR"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 2,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 3,
+                        "maxValue": 14,
+                        "unitCode": "DAY"
+                    }
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "DE"
+                }
+            },
+            "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "DE",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
             }
         }
     }
@@ -334,6 +367,7 @@
                     <ul>
                         <li><a href="#home">Startseite</a></li>
                         <li><a href="#packages">Unsere Pakete</a></li>
+                        <li><a href="https://review-markt.de/blog/">Blog</a></li>
                     </ul>
                 </div>
                 <div class="footer-links">
