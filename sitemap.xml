@@ -27,28 +27,6 @@
             <image:title>Review Markt Logo</image:title>
         </image:image>
     </url>
-    <url>
-        <loc>https://review-markt.de/negative-google-bewertungen-kaufen.html</loc>
-        <lastmod>2026-02-03</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://review-markt.de/buy-google-reviews-uk.png</image:loc>
-            <image:caption>Negative Google Bewertungen kaufen gegen unlauteren Wettbewerb.</image:caption>
-            <image:title>Negative Google Bewertungen kaufen</image:title>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://review-markt.de/google-bewertungen-loeschen.html</loc>
-        <lastmod>2026-02-03</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://review-markt.de/buy-google-reviews-uk.png</image:loc>
-            <image:caption>Negative Google Bewertungen löschen, die Ihrem Ruf schaden.</image:caption>
-            <image:title>Google Bewertungen löschen</image:title>
-        </image:image>
-    </url>
     <!-- Blog -->
     <url>
         <loc>https://review-markt.de/blog/</loc>
@@ -64,12 +42,6 @@
     </url>
     <url>
         <loc>https://review-markt.de/blog/bedeutung-google-bewertungen-unternehmen.html</loc>
-        <lastmod>2026-02-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://review-markt.de/blog/negative-google-bewertungen-antworten.html</loc>
         <lastmod>2026-02-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
