@@ -1,12 +1,12 @@
-# Robots.txt for Review Market
-# https://review-market.uk
+# Robots.txt für Review Markt
+# https://review-markt.de
 
 User-agent: *
 Allow: /
 
-# Files not to index
+# Dateien nicht indexieren
 Disallow: /*.json$
 Disallow: /logo/
 
 # Sitemap
-Sitemap: https://review-market.uk/sitemap.xml
+Sitemap: https://review-markt.de/sitemap.xml
