@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# Sitemap
 Sitemap: https://avis-markt.com/sitemap.xml
+
+# Crawl-delay pour eviter la surcharge
+Crawl-delay: 1
