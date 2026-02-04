@@ -1,12 +1,4 @@
-# Robots.txt für Review Markt
-# https://avis-markt.com
-
 User-agent: *
 Allow: /
 
-# Dateien nicht indexieren
-Disallow: /*.json$
-Disallow: /logo/
-
-# Sitemap
 Sitemap: https://avis-markt.com/sitemap.xml
