@@ -3,21 +3,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://avis-markt.com/</loc>
-        <lastmod>2026-02-03</lastmod>
+        <lastmod>2026-02-17</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://avis-markt.com/buy-google-reviews-uk.png</image:loc>
+            <image:loc>https://avis-markt.com/google-bewertungen-kaufen.png</image:loc>
             <image:caption>Positive Google Bewertungen kaufen, um Ihre Online-Reputation zu stärken.</image:caption>
             <image:title>Positive Google Bewertungen kaufen</image:title>
         </image:image>
         <image:image>
-            <image:loc>https://avis-markt.com/google-reviews-reputation.webp</image:loc>
+            <image:loc>https://avis-markt.com/google-bewertungen-reputation.webp</image:loc>
             <image:caption>Gewinnen Sie Glaubwürdigkeit auf Google Maps mit Kundenbewertungen.</image:caption>
             <image:title>Google Bewertungen Glaubwürdigkeit</image:title>
         </image:image>
         <image:image>
-            <image:loc>https://avis-markt.com/buy-google-reviews-online.webp</image:loc>
+            <image:loc>https://avis-markt.com/google-bewertungen-kaufen-online.webp</image:loc>
             <image:caption>Gewinnen Sie mehr Kunden mit positiven Google Bewertungen.</image:caption>
             <image:title>Google Bewertungen Kunden</image:title>
         </image:image>
@@ -30,31 +30,31 @@
     <!-- Blog -->
     <url>
         <loc>https://avis-markt.com/blog/</loc>
-        <lastmod>2026-02-03</lastmod>
+        <lastmod>2026-02-17</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://avis-markt.com/blog/mehr-google-bewertungen-erhalten.html</loc>
-        <lastmod>2026-02-03</lastmod>
+        <lastmod>2026-02-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://avis-markt.com/blog/bedeutung-google-bewertungen-unternehmen.html</loc>
-        <lastmod>2026-02-03</lastmod>
+        <lastmod>2026-02-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://avis-markt.com/blog/negative-google-bewertungen-umgehen.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-02-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://avis-markt.com/blog/google-maps-ranking-verbessern.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-02-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
